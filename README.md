@@ -158,8 +158,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarikuYe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Tariku's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TarikuYe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Tariku's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
 </p>
 
 <p align="center">
