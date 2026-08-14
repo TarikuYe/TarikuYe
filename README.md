@@ -223,6 +223,18 @@
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TarikuYe/TarikuYe/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TarikuYe/TarikuYe/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://github.com/TarikuYe/TarikuYe/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <h2 align="center">🤝 Connect with Me 🌐</h2>
 
 <p align="center">
