@@ -123,10 +123,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarikuYe&theme=react-dark&hide_border=true&area=true" width="100%" alt="Tariku's Contribution Activity Graph" />
-</p>
-
 ---
 <p align="center">
   <picture>
