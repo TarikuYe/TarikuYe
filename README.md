@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
+
 <h2 align="center">📈 What I Build</h2>
 
 <table width="100%">
@@ -133,7 +135,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarikuYe/TarikuYe/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TarikuYe/TarikuYe/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/TarikuYe/TarikuYe/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/TarikuYe/TarikuYe/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
