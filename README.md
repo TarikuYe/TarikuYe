@@ -199,19 +199,72 @@
 
 <h2 align="center">💡 What I Build</h2>
 
-<div align="center">
+<br/>
 
-| Focus Area | Core Technologies & Architecture |
-| :--- | :--- |
-| **🚀 Full-Stack Web Applications** | React, Next.js, TypeScript, Node.js, Express, Tailwind CSS |
-| **⚙️ Backend & REST APIs** | Node.js, Express, Python (Flask), JWT Auth, RBAC, Microservices |
-| **🤖 AI-Powered Applications** | Scikit-learn, TF-IDF Sentiment Analysis, LLM Integrations, AI Workflows |
-| **📊 Data & Reporting Automation** | Python, Pandas, OpenPyXL, Custom CLI/GUI Executables |
-| **🛢️ Database-Driven Systems** | PostgreSQL, Firebase, Supabase, Relational Modeling & Indexing |
-| **☁️ Cloud-Connected Applications** | Vercel, Docker, Serverless Backends, REST Integration |
-| **💼 Internal Business Tools** | Custom Admin Dashboards, Automated Workflows, Role-Based Access |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🚀 Full-Stack Web Applications</h3>
+      <p>End-to-end web applications with interactive frontend UIs, resilient backends, and responsive design systems.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚙️ Backend & REST APIs</h3>
+      <p>Secure backend services, RESTful APIs, JWT authentication, and role-based access control systems.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 AI-Powered Applications</h3>
+      <p>Smart digital products, natural language sentiment engines, machine learning tools, and AI workflows.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/scikit--learn-F79A3E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TF--IDF-0078D4?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Workflows-000000?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 Data & Reporting Automation</h3>
+      <p>Automated reporting tools and scripts to consolidate multi-format data into clean executive reports.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛢️ Database-Driven Systems</h3>
+      <p>Relational schema architectures, cloud data layers, fast querying, and persistent data solutions.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">💼 Cloud & Internal Tools</h3>
+      <p>Custom administrative dashboards, containerized services, and automated internal operational tools.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
