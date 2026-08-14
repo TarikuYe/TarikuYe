@@ -77,57 +77,119 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🌍 Wolaita Tourism Platform</h3>
-      <p><b>Full-Stack Tourism Management + Sentiment Analysis</b></p>
-      <p>A full-stack tourism platform for discovering destinations, booking tours, managing reviews, and analyzing customer sentiment. Supports multi-role access, secure payments, multilingual content, and admin analytics.</p>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Firebase</code> <code>Node.js</code> <code>Express</code> <code>Flask</code> <code>scikit-learn</code> <code>Chapa</code>
+      <div align="center">
+        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Full-stack-PERN-Tourism-Management-with-sentiment-analysis&theme=github_dark&show_owner=false" width="100%" alt="Wolaita Tourism Platform" />
+        </a>
+      </div>
+      <p align="center"><b>🌍 Wolaita Tourism Platform</b><br/><i>Full-Stack Tourism Management + Sentiment Analysis</i></p>
+      <p>A full-stack tourism platform for discovering destinations, booking tours, managing reviews, and analyzing customer sentiment. Features multi-role access, secure payments, multilingual content, and administrative analytics.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F79A3E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
-      <p>
-        🔗 <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis"><b>GitHub Repository</b></a><br/>
-        🌐 <a href="https://tariku-negesa.vercel.app/"><b>Live Demo</b></a><br/>
-        📖 <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis#readme"><b>Documentation</b></a>
+      <p align="center">
+        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://tariku-negesa.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis#readme">
+          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🍽️ Smart Digital Hotel & Restaurant Menu</h3>
-      <p><b>QR-Based Digital Menu & Restaurant Management</b></p>
-      <p>A modern digital menu system for hotels and restaurants featuring QR menus, multilingual items, allergen warnings, dietary filtering, ordering, customer feedback, and RBAC administration.</p>
-      <p>
-        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>JWT</code> <code>RBAC</code>
+      <div align="center">
+        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Digital-Menu-System-for-Hotels-Restaurant&theme=github_dark&show_owner=false" width="100%" alt="Smart Digital Hotel & Restaurant Menu" />
+        </a>
+      </div>
+      <p align="center"><b>🍽️ Smart Digital Hotel & Restaurant Menu</b><br/><i>QR-Based Digital Menu & Restaurant Management</i></p>
+      <p>A modern digital menu system designed for hotels and restaurants, combining QR-accessible menus, multilingual food information, allergen warnings, dietary filters, ordering, feedback, and role-based administration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
       </p>
-      <p>
-        🔗 <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant"><b>GitHub Repository</b></a><br/>
-        🌐 <a href="https://tariku-negesa.vercel.app/"><b>Live Demo</b></a><br/>
-        📖 <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant/blob/main/ARCHITECTURE.md"><b>Architecture & Docs</b></a>
+      <p align="center">
+        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://tariku-negesa.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant/blob/main/ARCHITECTURE.md">
+          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">✨ WonderTales AI</h3>
-      <p><b>AI-Powered Children's Storytelling Platform</b></p>
-      <p>Engineering architecture and product platform for interactive AI-powered storytelling, combining personalized stories, AI illustrations, narration, literacy engagement, and age-tailored learning.</p>
-      <p>
-        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Framer Motion</code> <code>Supabase</code> <code>PostgreSQL</code> <code>AI/ML</code>
+      <div align="center">
+        <a href="https://github.com/TarikuYe/wondertales-ai">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=wondertales-ai&theme=github_dark&show_owner=false" width="100%" alt="WonderTales AI" />
+        </a>
+      </div>
+      <p align="center"><b>✨ WonderTales AI</b><br/><i>AI-Powered Children's Storytelling Platform</i></p>
+      <p>A product concept and engineering architecture for an AI-powered children's storytelling platform combining personalized stories, illustrations, narration, literacy experiences, and age-appropriate educational features.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <p>
-        🔗 <a href="https://github.com/TarikuYe/wondertales-ai"><b>GitHub Repository</b></a><br/>
-        🌐 <a href="https://tariku-negesa.vercel.app/"><b>Portfolio Demo</b></a><br/>
-        📖 <a href="https://github.com/TarikuYe/wondertales-ai#readme"><b>Documentation</b></a>
+      <p align="center">
+        <a href="https://github.com/TarikuYe/wondertales-ai">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://tariku-negesa.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/TarikuYe/wondertales-ai#readme">
+          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📊 Weekly Report Automation System</h3>
-      <p><b>Automated Excel Reporting & Workflow Tool</b></p>
-      <p>Python-based reporting automation tool designed to eliminate manual data entry by consolidating multi-department Excel reports into clean datasets and standalone Windows executables.</p>
-      <p>
-        <code>Python</code> <code>Pandas</code> <code>OpenPyXL</code> <code>Tkinter</code> <code>Automation</code> <code>Excel</code> <code>PyInstaller</code>
+      <div align="center">
+        <a href="https://github.com/TarikuYe/Weekly-report-automation-system">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Weekly-report-automation-system&theme=github_dark&show_owner=false" width="100%" alt="Weekly Report Automation System" />
+        </a>
+      </div>
+      <p align="center"><b>📊 Weekly Report Automation System</b><br/><i>Automated Excel Reporting & Workflow Tool</i></p>
+      <p>A Python-based reporting automation tool designed to reduce repetitive manual work by processing department reports, consolidating data, and generating a self-contained Windows executable for easier distribution.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>
-        🔗 <a href="https://github.com/TarikuYe/Weekly-report-automation-system"><b>GitHub Repository</b></a><br/>
-        🌐 <a href="https://tariku-negesa.vercel.app/"><b>Portfolio</b></a><br/>
-        📖 <a href="https://github.com/TarikuYe/Weekly-report-automation-system#readme"><b>Documentation</b></a>
+      <p align="center">
+        <a href="https://github.com/TarikuYe/Weekly-report-automation-system">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://tariku-negesa.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/TarikuYe/Weekly-report-automation-system#readme">
+          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
