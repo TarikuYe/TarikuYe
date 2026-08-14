@@ -128,9 +128,6 @@
 </p>
 
 ---
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarikuYe/TarikuYe/output/github-contribution-grid-snake-dark.svg" />
