@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React%2C+Node.js%2C+Python;Building+Scalable+Web+Apps+%26+Digital+Solutions;Crafting+Backend+Systems+%26+AI-Powered+Products;Automating+Workflows+%26+Solving+Real+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%7C+React%2C+Node.js%2C+Python;Building+Scalable+Web+Apps+%26+Digital+Solutions;Crafting+Backend+Systems+%26+AI-Powered+Products;Automating+Workflows+%26+Solving+Real+Problems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  I enjoy turning real-world problems into clean, scalable, and maintainable software. Focused on crafting robust full-stack web applications, automated business solutions, and cloud-connected systems.
+  I enjoy turning real-world problems into clean, scalable, and maintainable software.<br/>
+  Focused on crafting robust full-stack web applications, automated business solutions, and cloud-connected systems.
 </p>
 
 <p align="center">
@@ -31,165 +32,131 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">📊 GitHub Overview</h2>
 
-<br/>
-
-<div align="center">
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🛢️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧰 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikuYe&theme=dark&hide_border=true&background=0D1117" width="80%" alt="Tariku's GitHub Streak" />
+</p>
 
 ---
 
+<h2 align="center">🛠️ Tech Stack ⚡</h2>
 
-<h2 align="center">📌 Featured Projects</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-<br/>
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Full-stack-PERN-Tourism-Management-with-sentiment-analysis&theme=github_dark&show_owner=false" width="100%" alt="Wolaita Tourism Platform" />
-        </a>
-      </div>
-      <p align="center"><b>🌍 Wolaita Tourism Platform</b><br/><i>Full-Stack Tourism Management + Sentiment Analysis</i></p>
+      <h3 align="center">🌍 Wolaita Tourism Platform</h3>
+      <p align="center"><i>Full-Stack Tourism Management + Sentiment Analysis</i></p>
       <p>A full-stack tourism platform for discovering destinations, booking tours, managing reviews, and analyzing customer sentiment. Features multi-role access, secure payments, multilingual content, and administrative analytics.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F79A3E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://tariku-negesa.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis#readme">
-          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-        </a>
+        <a href="https://github.com/TarikuYe/Full-stack-PERN-Tourism-Management-with-sentiment-analysis"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://tariku-negesa.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Digital-Menu-System-for-Hotels-Restaurant&theme=github_dark&show_owner=false" width="100%" alt="Smart Digital Hotel & Restaurant Menu" />
-        </a>
-      </div>
-      <p align="center"><b>🍽️ Smart Digital Hotel & Restaurant Menu</b><br/><i>QR-Based Digital Menu & Restaurant Management</i></p>
+      <h3 align="center">🍽️ Smart Digital Menu</h3>
+      <p align="center"><i>QR-Based Hotel &amp; Restaurant Menu System</i></p>
       <p>A modern digital menu system designed for hotels and restaurants, combining QR-accessible menus, multilingual food information, allergen warnings, dietary filters, ordering, feedback, and role-based administration.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://tariku-negesa.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant/blob/main/ARCHITECTURE.md">
-          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-        </a>
+        <a href="https://github.com/TarikuYe/Digital-Menu-System-for-Hotels-Restaurant"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://tariku-negesa.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/TarikuYe/wondertales-ai">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=wondertales-ai&theme=github_dark&show_owner=false" width="100%" alt="WonderTales AI" />
-        </a>
-      </div>
-      <p align="center"><b>✨ WonderTales AI</b><br/><i>AI-Powered Children's Storytelling Platform</i></p>
-      <p>A product concept and engineering architecture for an AI-powered children's storytelling platform combining personalized stories, illustrations, narration, literacy experiences, and age-appropriate educational features.</p>
+      <h3 align="center">✨ WonderTales AI</h3>
+      <p align="center"><i>AI-Powered Children's Storytelling Platform</i></p>
+      <p>An AI-powered storytelling product concept combining personalized stories, illustrations, narration, literacy experiences, and age-appropriate educational features.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TarikuYe/wondertales-ai">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://tariku-negesa.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-        <a href="https://github.com/TarikuYe/wondertales-ai#readme">
-          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-        </a>
+        <a href="https://github.com/TarikuYe/wondertales-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://tariku-negesa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/TarikuYe/Weekly-report-automation-system">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TarikuYe&repo=Weekly-report-automation-system&theme=github_dark&show_owner=false" width="100%" alt="Weekly Report Automation System" />
-        </a>
-      </div>
-      <p align="center"><b>📊 Weekly Report Automation System</b><br/><i>Automated Excel Reporting & Workflow Tool</i></p>
-      <p>A Python-based reporting automation tool designed to reduce repetitive manual work by processing department reports, consolidating data, and generating a self-contained Windows executable for easier distribution.</p>
+      <h3 align="center">📖 Story Weaver AI</h3>
+      <p align="center"><i>AI-Assisted Story Creation Experience</i></p>
+      <p>An AI-focused storytelling project exploring interactive story creation and digital experiences built around generative content workflows.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/TarikuYe/Weekly-report-automation-system">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://tariku-negesa.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-        <a href="https://github.com/TarikuYe/Weekly-report-automation-system#readme">
-          <img src="https://img.shields.io/badge/Docs-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-        </a>
+        <a href="https://github.com/TarikuYe/story-weaver-ai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Weekly Report Automation System</h3>
+      <p align="center"><i>Automated Excel Reporting &amp; Workflow Tool</i></p>
+      <p>A Python-based reporting automation tool designed to reduce repetitive manual work by processing department reports, consolidating data, and generating a self-contained Windows executable for easier distribution.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/TarikuYe/Weekly-report-automation-system"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 More Projects</h3>
+      <p>Explore additional experiments, prototypes, utilities, and engineering work across my GitHub profile.</p>
+      <p align="center">
+        <a href="https://github.com/TarikuYe?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -197,70 +164,45 @@
 
 ---
 
-<h2 align="center">💡 What I Build</h2>
-
-<br/>
+<h2 align="center">📈 What I Build</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🚀 Full-Stack Web Applications</h3>
-      <p>End-to-end web applications with interactive frontend UIs, resilient backends, and responsive design systems.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <h3>🚀 Full-Stack Web Applications</h3>
+      <p>End-to-end web applications with interactive UIs, resilient backends, responsive design systems, and role-aware workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚙️ Backend & REST APIs</h3>
-      <p>Secure backend services, RESTful APIs, JWT authentication, and role-based access control systems.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 AI-Powered Applications</h3>
-      <p>Smart digital products, natural language sentiment engines, machine learning tools, and AI workflows.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/scikit--learn-F79A3E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TF--IDF-0078D4?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI_Workflows-000000?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">📊 Data & Reporting Automation</h3>
-      <p>Automated reporting tools and scripts to consolidate multi-format data into clean executive reports.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+      <h3>⚙️ Backend &amp; REST APIs</h3>
+      <p>Secure backend services, RESTful APIs, authentication, authorization, and database-driven application logic.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛢️ Database-Driven Systems</h3>
-      <p>Relational schema architectures, cloud data layers, fast querying, and persistent data solutions.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      <h3>🤖 AI-Powered Applications</h3>
+      <p>Sentiment analysis, AI product concepts, intelligent workflows, and machine-learning-supported digital experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/TF--IDF-0078D4?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">💼 Cloud & Internal Tools</h3>
-      <p>Custom administrative dashboards, containerized services, and automated internal operational tools.</p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <h3>📊 Data &amp; Reporting Automation</h3>
+      <p>Automated reporting workflows that validate, transform, consolidate, and present operational data efficiently.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -268,9 +210,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Metrics</h2>
-
-<br/>
+<h2 align="center">📊 GitHub Stats &amp; Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TarikuYe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Tariku's GitHub Stats" />
@@ -278,16 +218,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TarikuYe&theme=github-dark-blue&hide_border=true" alt="Tariku's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarikuYe&theme=react-dark&hide_border=true" width="100%" alt="Tariku's Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarikuYe&theme=react-dark&hide_border=true&area=true" width="100%" alt="Tariku's Contribution Activity Graph" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">🤝 Connect with Me 🌐</h2>
 
 <p align="center">
   <a href="https://github.com/TarikuYe">
@@ -304,10 +240,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://komarev.com/ghpvc/?username=TarikuYe&label=Profile%20Views&color=61DAFB&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
