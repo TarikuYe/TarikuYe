@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTRjLS4yNi0uODEtMS0xLjM9LTEuOS0xLjM5aC0xdi0zYzAtLjU1LS40NS0xLTEtMUg4di0yaDJjLjU5IDAgMS0uNDUgMS0xVjdoMmMxLjEgMCAyLS45IDItMnYtLjQxYzIuOTMgMS4xOSA1IDQuMDYgNSA3LjQxIDAgMi4wOC0uOCAzLjk7LTIuMSA1LjM5eiIvPjwvc3ZnPg%3D%3D" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tarikunegesa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg5YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAw IDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAw IDEgMS44IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yNVYxMC45SDYuNDZNNy44NiA2Ljc4YTEuNjIgMS42MiAwIDEgMCAwIDMuMjQgMS42MiAxLjYyIDAgMCAwIDAtMy4yNHoiLz48L3N2Zz4%3D" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Icon">
   </a>
   <a href="https://github.com/TarikuYe">
   <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub Icon">
@@ -144,7 +144,7 @@
   <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub Icon">
   </a>
   <a href="https://www.linkedin.com/in/tarikunegesa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg5YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAw IDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAw IDEgMS44IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yNVYxMC45SDYuNDZNNy44NiA2Ljc4YTEuNjIgMS42MiAwIDEgMCAwIDMuMjQgMS42MiAxLjYyIDAgMCAwIDAtMy4yNHoiLz48L3N2Zz4%3D" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn Icon">
   </a>
   <a href="https://tariku-negesa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTRjLS4yNi0uODEtMS0xLjM9LTEuOS0xLjM5aC0xdi0zYzAtLjU1LS40NS0xLTEtMUg4di0yaDJjLjU5IDAgMS0uNDUgMS0xVjdoMmMxLjEgMCAyLS45IDItMnYtLjQxYzIuOTMgMS4xOSA1IDQuMDYgNSA3LjQxIDAgMi4wOC0uOCAzLjk7LTIuMSA1LjM5eiIvPjwvc3ZnPg%3D%3D" alt="Portfolio" />
