@@ -17,16 +17,16 @@
 
 <p align="center">
   <a href="https://tariku-negesa.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMnptNi45MyA2aC0yLjk1YTE1LjY1IDE1LjY1IDAgMCAwLTEuMzgtMy41NkE4LjAzIDguMDMgMCAw IDEgMTguOTMgOHpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41OSAxLjkxIDMuOTZoLTMuODJjLjQzLTEuMzcgMS4wOC0yLjc2IDEuOTEtMy45NnpNNC4yNiAxNGE3LjgyIDcuODIgMCAw IDEgMC04aDMuMzhhMTYuNyAxNi43IDAgMCAwLS4xNCAyYzAgLjY4LjA5IDEuMzUuMTQgMkg0LjI2em0uODEgMmgy.95Yy4zMiAxLjMuNzkgMi41IDEuMzggMy41NkE4LjAzIDguMDMgMCAw IDEgNS4wNyAxNnptMi45NS04SDUuMDdhOC4wMyA4LjAzIDAgMCAxIDIuODgtMy41NkM3LjM6NSA1LjUgNi44OSA2LjcgNi41NyA4eE1DEIDE5Ljk6Yy0uODMtMS4yLTEuNDgtMi41OS0xLjkxLTMuOTZoMy44MmMtLjQzIDEuMzctMS4wOCAyLjc2LTEuOTEgMy45NnpNMTQuMzQgMTRoLTQuNjhhMTQuNyAxNC43IDAgMCAxLS4xNi0yYzAtLjY4LjA1LTEuMzUuMTYtMmg0LjY4Yy4xMS42NS4xNiAxLjMyLjE2IDIgMCAuYXgtLjA1LTEuMzUtLjE2IDJ6bTEuMDkgNS41NmMuNTktMS4wNiAxLjA2LTIuMjYgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTIuODggMy41NnpNMTYuMzYgMTRjLjA5LS42NS4xNC0xLjMyLjE0LTIgMC0uNjgtLjA1LTEuMzUtLjE0LTJoMy4zOGE3LjgyIDcuODIgMCAw IDEgMCA4aC0zLjM4eiIvPjwvc3ZnPg==" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tarikunegesa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAw IDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAw IDEgMS44IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yNVYxMC45SDYuNDZNNy44NiA2Ljc4YTEuNjIgMS42MiAwIDEgMCAwIDMuMjQgMS42MiAxLjYyIDAgMCAwIDAtMy4yNHoiLz48L3N2Zz4=" alt="LinkedIn" />
   </a>
   <a href="https://github.com/TarikuYe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAwQzUuMzcgMCAwIDUuMzcgMCAxMmMwIDUuMzEgMy40MzUgOS43OTUgOC4yMDUgMTEuMzg1LjYuMTA1LjgyNS0uMjU1LjgyNS0uNTcgMC0uMjg1LS4wMTUtMS4yMy0uMDE1LTIuMjM1LTMuMDE1LjU1NS0zLjc5NS0uNzM1LTQuMDM1LTEuNDEtLjEzNS0uMzQ1LS43Mi0xLjQxLTEuMjMtMS42OTUtLjQyLS4yMjUtMS4wMi0uNzgtLjAxNS0uNzk1Ljk0NS0uMDE1IDEuNjIuODcgMS44NDUgMS4yMyAxLjA4IDEuODE1IDIuODA1IDEuMzA1IDMuNDk1Ljk5LjEwNS0uNzguNDItMS4zMDUuNzY1LTEuNjA1LTIuNjctLjMtNS40Ni0xLjMzNS01LjQ2LTUuOTI1IDAtMS4zMDUuNDY1LTIuMzg1 IDEuMjMtMy4yMjUtLjEyLS4zLS41NC0xLjUzLjEyLTMuMTggMCAwIDEuMDA1LS4zMTUgMy4zIDEuMjMuOTYtLjI3IDEuOTgtLjQwNSAzLS40MDVzMi4wNC4x3UgMyAuNDA1YzIuMjk1LTEuNTYgMy4zLTEuMjMgMy4zLTEuMjMuNjYgMS42NS4yNCAyLjg4LjEyIDMuMTguNzY1Ljg0 IDEuMjMgMS45MDUgMS4yMyAzLjIyNSAwIDQuNjA1LTIuODA1IDUuNjI1LTUuNDc5IDUuOTI1LjQzNS4zNzUuODEgMS4wOTUuODEgMi4yMiAwIDEuNjA1LS4wMTUgMi44OTUtLjAxNSAzLjMgMCAuMzE1LjIyNS42OS44MjUuNTdBMTIuMDIgMTIuMDIgMCAwIDAgMjQgMTJjMC02LjYzLTUuMzctMTItMTItMTJ6Ii8+PC9zdmc+" alt="GitHub" />
   </a>
   <a href="mailto:tarikunegesa19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4=" alt="Email" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarikuYe&theme=dark&hide_border=true&background=0D1117" width="80%" alt="Tariku's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TarikuYe&theme=dark&hide_border=true&background=0D1117" width="80%" alt="Tariku's GitHub Streak" />
 </p>
 
 ---
@@ -44,12 +44,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMCAxLjA1aDkuNzVWMjJMMCAyMC41NTFNMTAuOCAxLjk1TDI0IDB2MTEuNTVIMTAuOE0yNCAxMi40NVYyNGwtMTMuMi0xLjh2LTkuNzUiLz48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
@@ -79,7 +79,7 @@
       <p>End-to-end web applications with interactive UIs, resilient backends, responsive design systems, and role-aware workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
@@ -98,7 +98,7 @@
       <h3>🤖 AI-Powered Applications</h3>
       <p>Sentiment analysis, AI product concepts, intelligent workflows, and machine-learning-supported digital experiences.</p>
       <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/TF--IDF-0078D4?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
@@ -119,10 +119,13 @@
 <h2 align="center">📊 GitHub Stats &amp; Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TarikuYe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Tariku's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TarikuYe&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="Tariku's GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarikuYe&theme=github_dark" width="100%" alt="Tariku's Profile Details Graph" />
+</p>
 ---
 <p align="center">
   <picture>
@@ -138,16 +141,16 @@
 
 <p align="center">
   <a href="https://github.com/TarikuYe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAwQzUuMzcgMCAwIDUuMzcgMCAxMmMwIDUuMzEgMy40MzUgOS43OTUgOC4yMDUgMTEuMzg1LjYuMTA1LjgyNS0uMjU1LjgyNS0uNTcgMC0uMjg1LS4wMTUtMS4yMy0uMDE1LTIuMjM1LTMuMDE1LjU1NS0zLjc5NS0uNzM1LTQuMDM1LTEuNDEtLjEzNS0uMzQ1LS43Mi0xLjQxLTEuMjMtMS42OTUtLjQyLS4yMjUtMS4wMi0uNzgtLjAxNS0uNzk1Ljk0NS0uMDE1 IDEuNjIuODcgMS44NDUgMS4yMyAxLjA4 IDEuODE1IDIuODA1 IDEuMzA1IDMuNDk1Ljk5LjEwNS0uNzguNDItMS4zMDUuNzY1LTEuNjA1LTIuNjctLjMtNS40Ni0xLjMzNS01LjQ2LTUuOTI1IDAtMS4zMDUuNDY1LTIuMzg1 IDEuMjMtMy4yMjUtLjEyLS4zLS45NC0xLjUzLjEyLTMuMTggMCAwIDEuMDA1LS4zMTUgMy4zIDEuMjMuOTYtLjI3IDEuOTgtLjQwNSAzLS40MDVzMi4wNC4x3UgMyAuNDA1YzIuMjk1LTEuNTYgMy4zLTEuMjMgMy4zLTEuMjMuNjYgMS42NS4yNCAyLjg4LjEyIDMuMTguNzY1Ljg0 IDEuMjMgMS45MDUgMS4yMyAzLjIyNSAwIDQuNjA1LTIuODA1IDUuNjI1LTUuNDc5IDUuOTI1LjQzNS4zNzUuODEgMS4wOTUuODEgMi4yMiAw IDEuNjA1LS4wMTUgMi44OTUtLjAxNSAzLjMgMCAuMzE1LjIyNS42OS44MjUuNTdBMTIuMDIgMTIuMDIgMCAwIDAgMjQgMTJjMC02LjYzLTUuMzctMTItMTItMTJ6Ii8+PC9zdmc+" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/tarikunegesa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAw IDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40 IDEuMzktMS40YTEuNCAxLjQgMCAw IDEgMS44 IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yNVYxMC45SDYuNDZNNy44NiA2Ljc4YTEuNjIgMS42MiAwIDEgMCAwIDMuMjQgMS42MiAxLjYyIDAgMCAwIDAtMy4yNHoiLz48L3N2Zz4=" alt="LinkedIn" />
   </a>
   <a href="https://tariku-negesa.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMnptNi45MyA2aC0yLjk1YTE1LjY1IDE1LjY1IDAgMCAwLTEuMzgtMy41NkE4LjAzIDguMDMgMCAw IDEgMTguOTMgOHpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41OSAxLjkxIDMuOTZoLTMuODJjLjQzLTEuMzcgMS4wOC0yLjc2 IDEuOTEtMy45NnpNNC4yNiAxNGE3LjgyIDcuODIgMCAw IDEgMC04aDMuMzhhMTYuNyAxNi43IDAgMCAwLS4xNCAyYzAgLjY4LjA1IDEuMzUuMTQgMkg0LjI2em0uODEgMmgyLjk1Yy4zMiAxLjMuNzkgMi41IDEuMzggMy41NkE4LjAzIDguMDMgMCAw IDEgNS4wNyAxNnptMi45NS04SDUuMDdhOC4wMyA4LjAzIDAgMCAxIDIuODgtMy41NkM3LjM6NSA1LjUgNi44OSA2LjcgNi41NyA8eE1DEIDE5Ljk6Yy0uODMtMS4yLTEuNDgtMi41OS0xLjkxLTMuOTZoMy44MmMtLjQzIDEuMzctMS4wOCAyLjc2LTEuOTEgMy45NnpNMTQuMzQgMTRoLTQuNjhhMTQuNyAxNC43IDAgMCAxLS4xNi0yYzAtLjY4LjA1LTEuMzUuMTYtMmg0LjY4Yy4xMS42NS4xNiAxLjMyLjE2IDIgMCAuYXgtLjA1LTEuMzUtLjE2IDJ6bTEuMDkgNS41NmMuNTktMS4wNiAxLjA2LTIuMjYgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTIuODggMy41NnpNMTYuMzYgMTRjLjA5LS42NS4xNC0xLjMyLjE0LTIgMC0uNjgtLjA1LTEuMzUtLjE0LTJoMy4zOGE3LjgyIDcuODIgMCAw IDEgMCA8aC0zLjM4eiIvPjwvc3ZnPg==" alt="Portfolio" />
   </a>
   <a href="mailto:tarikunegesa19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4=" alt="Email" />
   </a>
 </p>
 
