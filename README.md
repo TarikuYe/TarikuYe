@@ -25,8 +25,8 @@
   <a href="https://github.com/TarikuYe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJjMCA0LjQyIDIuODcgOC4xNyA2Ljg0IDkuNS41LjA4LjY6LS4yMy42Ni0uNXYtMS42OWMtMi43Ny42LTMuMzYtMS4zNC0zLjM6LTEuMzQtLjQ2LTEuMTYtMS4xMS0xLjQ3LTEuMTEtMS40Ny0uOTEtLjYyLjA3LS42LjA3LS42IDEgLjA3IDEuNTMgMS4wMyAxLjUzIDEuMDMuODcgMS41MiAyLjM0IDEuMDcgMi45MS44My4xLS42NS4zNS0xLjA5LjYzLTEuMzQtMi4yMi0uMjUtNC41NS0xLjExLTQuNTUtNC45MiAwLTEuMTEuMzgtMiAxLjAzLTIuNzEtLjEtLjI1LS40NS0xLjI5LjEtMi42NCAwIDAgLjg0LS4yNyAyLjc1IDEuMDIuNzktLjIyIDEuNjUtLjMzIDIuNS0uMzMuODUgMCAxLjcxLjExIDIuNS4zMyAxLjkxLTEuMjkgMi43NS0xLjAyIDIuNzUtMS4wMi41NSAxLjM1LjIgMi4zOS4xIDIuNjQuNjUgNy4xIDEuMDMgMS42IDEuMDMgMi43MSAwIDMuODItMi4zNCA0LjY6LTQuNTcgNC45MS4zNi4zMS42OS45Mi42OSAxLjg1VjIxYzAgLjI3LjE2LjU5LjY3LjVDMTkuMTQgMjAuMTYgMjIgMTYuNDIgMjIgMTJBMTAgMTAgMCAwIDAgMTIgMnoiLz48L3N2Zz4%3D" alt="GitHub" />
   </a>
-  <a href="mailto:tarikunegesa19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4%3D" alt="Email" />
+ <a href="mailto:tarikunegesa19@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" />
   </a>
 </p>
 
@@ -150,7 +150,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTRjLS4yNi0uODEtMS0xLjM9LTEuOS0xLjM5aC0xdi0zYzAtLjU1LS40NS0xLTEtMUg4di0yaDJjLjU5IDAgMS0uNDUgMS0xVjdoMmMxLjEgMCAyLS45IDItMnYtLjQxYzIuOTMgMS4xOSA1IDQuMDYgNSA3LjQxIDAgMi4wOC0uOCAzLjk7LTIuMSA1LjM5eiIvPjwvc3ZnPg%3D%3D" alt="Portfolio" />
   </a>
   <a href="mailto:tarikunegesa19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCA0SDRjLTEuMSAwLTEuOTkuOS0xLjk5IDJMMiAxOGMwIDEuMS45IDIgMiAyaDE2YzEuMSAwIDItLjkgMi0yVjZjMC0xLjEtLjktMi0yLTJ6bTAgNGwtOCA1LTgtNVY2bDggNSA4LTV2MnoiLz48L3N2Zz4%3D" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email" />
   </a>
 </p>
 
