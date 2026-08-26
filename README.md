@@ -123,9 +123,9 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TarikuYe&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Tariku's Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarikuYe&theme=github_dark" width="100%" alt="Tariku's Profile Details Graph" />
-</p>
+</p> -->
 ---
 <p align="center">
   <picture>
